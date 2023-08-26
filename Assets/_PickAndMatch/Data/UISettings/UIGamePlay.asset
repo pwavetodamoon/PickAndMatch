@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087bd6c5d7ad42d438ed6a0786f027c3, type: 3}
+  m_Name: UIGamePlay
+  m_EditorClassIdentifier: 
+  templateUIPrefab: {fileID: 4221030397455825095, guid: 2bd3c58811fafef46bf9b329419fac72, type: 3}
+  screensToRegister:
+  - {fileID: 7815986595700441463, guid: da56762bcf974de4f9ad19f911454a0c, type: 3}
+  - {fileID: 486980397489890947, guid: 28bb81e252f5d4c4dab84d33650cb361, type: 3}
+  - {fileID: 3648128022401293838, guid: c9e32f5e10d5cb64e870d9cf396f0b1d, type: 3}
+  - {fileID: 486980397489890947, guid: 73839627f10d80d49953ab18fcffa7f5, type: 3}
+  deactivateScreenGOs: 1

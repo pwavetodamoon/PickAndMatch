@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087bd6c5d7ad42d438ed6a0786f027c3, type: 3}
+  m_Name: UIMainMenuSetting
+  m_EditorClassIdentifier: 
+  templateUIPrefab: {fileID: 7004930906557207754, guid: d28d784d7d11703428b35c850023f064, type: 3}
+  screensToRegister:
+  - {fileID: 6622958474047948118, guid: bcf1e07823c62ed4eb03c47acf67098d, type: 3}
+  - {fileID: 3551162543580831706, guid: 33ec2f5a8333b2647bd7eb91839956f1, type: 3}
+  deactivateScreenGOs: 1

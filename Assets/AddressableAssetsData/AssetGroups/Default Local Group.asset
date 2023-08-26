@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f6c53d78da6d5c34eadad58deb5e8305
+  m_SerializeEntries:
+  - m_GUID: be3d40186a3840446b90479432beba0f
+    m_Address: GamePlay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f55ad2279ef0c4a428d8b0357bb352f8
+    m_Address: LoginScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2cda990e2423bbf4892e6590ba056729
+    m_Address: MainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c4d6fcf9fd7cb64995c7eaf57ba9d50
+    m_Address: MenuLevel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09e033635c678f34195c37602b2dfd01
+    m_Address: Card
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  - m_GUID: 9964dff87dd8b4c48a449920e18ef45c
+    m_Address: PanelLevelProgress
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5dffcd5c4692a3a4685283cc07d28632
+    m_Address: NodeLevel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0958e5e51ebfd0b4daf44182820dc06b
+    m_Address: UILoadingScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c69ba09663ea9e040be317de8920b3a7
+    m_Address: UILogin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da56762bcf974de4f9ad19f911454a0c
+    m_Address: UIGamePlay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28bb81e252f5d4c4dab84d33650cb361
+    m_Address: UIPauseGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9e32f5e10d5cb64e870d9cf396f0b1d
+    m_Address: UICompleteLvl
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73839627f10d80d49953ab18fcffa7f5
+    m_Address: UILoseGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bcf1e07823c62ed4eb03c47acf67098d
+    m_Address: UIMainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33ec2f5a8333b2647bd7eb91839956f1
+    m_Address: PanelMaintenence
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44808d7430e0464448ff803dff9c288d
+    m_Address: UIMenuLevel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 765f6c14b328704478b3644e2e42ddf7
+    m_Address: UIPanelNotificationLocked
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 854b9b7028473354788d4dffee07d745
+    m_Address: UIFrameLoading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b30c2101e4d345e4f8c710c217224214
+    m_Address: UIFrameLogin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a794909a86a868d43a8f31856356ffd6
+    m_Address: UIFrameMenuLevel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bd3c58811fafef46bf9b329419fac72
+    m_Address: UIFrameGamePlay
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d28d784d7d11703428b35c850023f064
+    m_Address: UIFrame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5c39b4e279fe0d45a9f2ff7a9487b97
+    m_Address: Assets/_PickAndMatch/Data/UISettings/UILoginSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 787b090982f5f314b8824c18d7faa0da
+    m_Address: Assets/_PickAndMatch/Data/UISettings/UIGamePlay.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02bd179a7499c8b4ebb2b368702d7606
+    m_Address: Assets/_PickAndMatch/Data/UISettings/UILoadingSetting.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: add75cc1386daa046917bb604fc55938
+    m_Address: Assets/_PickAndMatch/Data/UISettings/UIMenuLevelSetting.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b61b416297c45d45ac1e27c157c774f
+    m_Address: DataCards
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataCard
+  - m_GUID: 2f49df869ecb3404c837b146cfefe54e
+    m_Address: DataLevels
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DataLevel
+  - m_GUID: 9b839977f1c3fe5479b2ead31d9d49dd
+    m_Address: Assets/_PickAndMatch/Data/UISettings/UIMainMenuSetting.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e5228fa2c408d934fbefd91cc46bac01, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a14fc31993dc11d4eb0d8fdfe9dbe3a0, type: 2}
+    - {fileID: 11400000, guid: 74fc5d5ecd53b884db17a65434f21fbc, type: 2}

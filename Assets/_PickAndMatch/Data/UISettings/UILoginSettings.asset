@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087bd6c5d7ad42d438ed6a0786f027c3, type: 3}
+  m_Name: UILoginSettings
+  m_EditorClassIdentifier: 
+  templateUIPrefab: {fileID: 7931364119348264203, guid: b30c2101e4d345e4f8c710c217224214, type: 3}
+  screensToRegister:
+  - {fileID: 6216155249606041834, guid: c69ba09663ea9e040be317de8920b3a7, type: 3}
+  deactivateScreenGOs: 1
